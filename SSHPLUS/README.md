@@ -3,7 +3,7 @@
 * UPDATE 01/01/2023
 * GeralNetSSH (Final Version 01)
 ```
-![logo](https://github.com/GeralNetSSH?tab/Script/SSHPLUS/blob/master/Imagenes/SSHPLUS_MANAGER.jpg)
+![logo](https://github.com/GeralNetSSH?tab/Script/SSHPLUS/blob/master/Imagenes/GeralNetSSH.jpg)
 
 ```
 GeralNetSSH é um script com um conjunto de recursos e ferramentas adequadas para 
