@@ -24,7 +24,8 @@ GeralNetSSH é um script com um conjunto de recursos e ferramentas adequadas par
 
 ## :Instalação
 
-apt-get update -y; apt-get upgrade -y; wget https://github.com/GeralNetSSH?tab/Script/SSHPLUS/master/Plus; chmod 777 Plus; ./Plus
+apt-get update -y && apt-get upgrade -y && 
+wget https://github.com/GeralNetSSH?tab/Script/SSHPLUS/master/Plus &&  chmod 777 Plus && ./Plus
 
 ```
 GeralNetSSH (As dependências ausentes serão instaladas automaticamente)
